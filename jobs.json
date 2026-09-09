@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-08T00:09:05.043050+00:00",
+  "updated_at": "2026-09-09T00:09:02.783663+00:00",
   "count": 55,
   "jobs": [
+    {
+      "agency": "อุทยานแห่งชาติดอยอินทนนท์ (เชียงใหม่)",
+      "position": "อุทยานแห่งชาติดอยอินทนนท์ (เชียงใหม่)  เปิดรับสมัครจัดจ้างเป็นเจ้าหน้าที่ปฏิบัติงาน 195 อัตรา",
+      "amount": "195 อัตรา",
+      "apply_date": "วันนี้ - 11 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=370",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "การไฟฟ้านครหลวง ( กฟน.)",
+      "position": "การไฟฟ้านครหลวง ( กฟน.)  เปิดรับสมัครเพื่อบรรจุเป็นพนักงาน 38 อัตรา",
+      "amount": "38 อัตรา",
+      "apply_date": "14 -20 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=198",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "โรงพยาบาลตากสิน",
+      "position": "โรงพยาบาลตากสิน เปิดรับสมัครพนักงานประกันสังคม 30 อัตรา",
+      "amount": "30 อัตรา",
+      "apply_date": "16 กันยายน -  16 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=69",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "สำนักงานมาตรฐานสินค้าเกษตรและอาหารแห่งชาติ",
       "position": "สำนักงานมาตรฐานสินค้าเกษตรและอาหารแห่งชาติ เปิดรับสมัครพนักงานราชการทั่วไป  4 อัตรา",
@@ -104,14 +128,6 @@
       "amount": "1 อัตรา",
       "apply_date": "7 - 11 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=251",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานเขตบางรัก",
-      "position": "สำนักงานเขตบางรัก  เปิดรับสมัครพนักงานจ้างเหมาบริการและอาสาสมัคร 18 อัตรา",
-      "amount": "18 อัตรา",
-      "apply_date": "31 สิงหาคม - 8 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=349",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -243,14 +259,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "ประกาศรายชื่อผู้มีสิทธิสอบ สถานที่สอบ  นักเรียนนายสิบตำรวจ (นสต.) ปี 2569",
-      "position": "ประกาศรายชื่อผู้มีสิทธิสอบ สถานที่สอบ  นักเรียนนายสิบตำรวจ (นสต.) ปี 2569",
-      "amount": "",
-      "apply_date": "",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=151",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "เปิดสอบ ก.พ.",
       "position": "เปิดสอบ ก.พ.",
       "amount": "",
@@ -280,6 +288,14 @@
       "amount": "7 อัตรา",
       "apply_date": "วันนี้ - 4 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=400",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานเขตบางรัก",
+      "position": "สำนักงานเขตบางรัก  เปิดรับสมัครพนักงานจ้างเหมาบริการและอาสาสมัคร 18 อัตรา",
+      "amount": "18 อัตรา",
+      "apply_date": "31 สิงหาคม - 8 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=349",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -424,22 +440,6 @@
       "amount": "1 อัตรา",
       "apply_date": "13 - 25 สิงหาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=91",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมพัฒนาธุรกิจการค้า",
-      "position": "กรมพัฒนาธุรกิจการค้า  เปิดรับสมัครลูกจ้างเหมาบริการ 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "บัดนี้ - 21 สิงหาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=248",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร",
-      "position": "ธนาคารเพื่อการเกษตรและสหกรณ์การเกษตร  เปิดรับสมัครเป็นผู้ช่วยพนักงาน 5 อัตรา",
-      "amount": "5 อัตรา",
-      "apply_date": "บัดนี้ - 14 สิงหาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=394",
       "source": "ประกาศผลสอบ.com"
     }
   ]
