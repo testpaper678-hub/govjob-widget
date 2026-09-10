@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-09T00:09:02.783663+00:00",
+  "updated_at": "2026-09-10T00:08:02.525168+00:00",
   "count": 55,
   "jobs": [
+    {
+      "agency": "สำนักนโยบายและยุทธศาสตร์ข้าว",
+      "position": "สำนักนโยบายและยุทธศาสตร์ข้าว  เปิดรับสมัครจ้างเหมาบุคคลธรรมดา 3 อัตรา",
+      "amount": "3 อัตรา",
+      "apply_date": "วันนี้ - 21 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=385",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "อุทยานแห่งชาติดอยอินทนนท์ (เชียงใหม่)",
       "position": "อุทยานแห่งชาติดอยอินทนนท์ (เชียงใหม่)  เปิดรับสมัครจัดจ้างเป็นเจ้าหน้าที่ปฏิบัติงาน 195 อัตรา",
@@ -147,30 +155,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "สำนักงาน ป.ป.ส. กทม.",
-      "position": "สำนักงาน ป.ป.ส. กทม.   เปิดรับสมัครลูกจ้างเหมาบริการบุคคลธรรมดา 21 อัตรา",
-      "amount": "21 อัตรา",
-      "apply_date": "3 - 9 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=164",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมการขนส่งทางบก",
-      "position": "กรมการขนส่งทางบก   เปิดรับสมัครพนักงานกองทุน 4 อัตรา",
-      "amount": "4 อัตรา",
-      "apply_date": "1 - 9 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=512",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานคณะกรรมการอาหารและยา",
-      "position": "สำนักงานคณะกรรมการอาหารและยา   เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "3 - 9 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=104",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "กรมศิลปากร",
       "position": "กรมศิลปากร   เปิดรับสมัครพนักงานราชการทั่วไป 22 อัตรา",
       "amount": "22 อัตรา",
@@ -179,27 +163,11 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "กรมตรวจบัญชีสหกรณ์",
-      "position": "กรมตรวจบัญชีสหกรณ์  เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "1 - 9 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=450",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "สำนักงานการวิจัยแห่งชาติ",
       "position": "สำนักงานการวิจัยแห่งชาติ  เปิดรับสมัครสอบบรรจุเข้ารับราชการ 1 อัตรา",
       "amount": "1 อัตรา",
       "apply_date": "27 สิงหาคม - 16 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=58",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมการสื่อสารทหาร",
-      "position": "กรมการสื่อสารทหาร  เปิดรับสมัครพนักงานราชการ 5 อัตรา",
-      "amount": "5 อัตรา",
-      "apply_date": "1 - 9 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=200",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -315,11 +283,51 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "สำนักงาน ป.ป.ส. กทม.",
+      "position": "สำนักงาน ป.ป.ส. กทม.   เปิดรับสมัครลูกจ้างเหมาบริการบุคคลธรรมดา 21 อัตรา",
+      "amount": "21 อัตรา",
+      "apply_date": "3 - 9 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=164",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมการขนส่งทางบก",
+      "position": "กรมการขนส่งทางบก   เปิดรับสมัครพนักงานกองทุน 4 อัตรา",
+      "amount": "4 อัตรา",
+      "apply_date": "1 - 9 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=512",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานคณะกรรมการอาหารและยา",
+      "position": "สำนักงานคณะกรรมการอาหารและยา   เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "3 - 9 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=104",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมตรวจบัญชีสหกรณ์",
+      "position": "กรมตรวจบัญชีสหกรณ์  เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "1 - 9 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=450",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "สำนักงาน ป.ป.ส. ภาค 9",
       "position": "สำนักงาน ป.ป.ส. ภาค 9  เปิดรับสมัครลูกจ้างเหมาบริการบุคคลธรรมดา 13 อัตรา",
       "amount": "13 อัตรา",
       "apply_date": "24 - 28 สิงหาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=105",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมการสื่อสารทหาร",
+      "position": "กรมการสื่อสารทหาร  เปิดรับสมัครพนักงานราชการ 5 อัตรา",
+      "amount": "5 อัตรา",
+      "apply_date": "1 - 9 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=200",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -432,14 +440,6 @@
       "amount": "13 อัตรา",
       "apply_date": "11 - 20 สิงหาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=517",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานปลัดกระทรวงการคลัง",
-      "position": "สำนักงานปลัดกระทรวงการคลัง  เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 1 อัตรา",
-      "amount": "1 อัตรา",
-      "apply_date": "13 - 25 สิงหาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=91",
       "source": "ประกาศผลสอบ.com"
     }
   ]
