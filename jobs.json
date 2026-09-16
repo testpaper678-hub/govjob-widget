@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-15T00:08:08.877432+00:00",
+  "updated_at": "2026-09-16T00:07:33.325045+00:00",
   "count": 55,
   "jobs": [
+    {
+      "agency": "สำนักงานพัฒนาที่ดินเขต 3",
+      "position": "สำนักงานพัฒนาที่ดินเขต 3  เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "23 - 29 กันยายน  2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=597",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) แล้ว!!!",
+      "position": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) แล้ว!!!",
+      "amount": "",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=453",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมเจรจาการค้าระหว่างประเทศ",
+      "position": "กรมเจรจาการค้าระหว่างประเทศ  เปิดรับสมัครพนักงานราชการทั่วไป 3 อัตรา",
+      "amount": "3 อัตรา",
+      "apply_date": "25 กันยายน - 12 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=177",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "กรมวิชาการเกษตร  (สวพ. 4)",
       "position": "กรมวิชาการเกษตร  (สวพ. 4) เปิดรับสมัครพนักงานราชการทั่วไป ( อุบลราชธานี ) 1 อัตรา",
@@ -243,14 +267,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "ประกาศผลสอบ ก.พ.",
-      "position": "ประกาศผลสอบ ก.พ.",
-      "amount": "",
-      "apply_date": "",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=453",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "สำนักงานเลขานุการกรม",
       "position": "สำนักงานเลขานุการกรม เปิดรับสมัคร ลูกจ้างชั่วคราวรายเดือน 4 อัตรา",
       "amount": "4 อัตรา",
@@ -424,22 +440,6 @@
       "amount": "52 อัตรา",
       "apply_date": "18 - 31 สิงหาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=646",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "การนิคมอุตสาหกรรมแห่งประเทศไทย",
-      "position": "การนิคมอุตสาหกรรมแห่งประเทศไทย  เปิดรับสมัครบุคคลเพื่อบรรจุเป็นพนักงาน 16 อัตรา",
-      "amount": "16 อัตรา",
-      "apply_date": "10 - 26 สิงหาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=313",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมการขนส่งทางบก",
-      "position": "กรมการขนส่งทางบก  เปิดรับสมัครสอบบรรจุเข้ารับราชการ 24 อัตรา",
-      "amount": "24 อัตรา",
-      "apply_date": "18 สิงหาคม - 7 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=89",
       "source": "ประกาศผลสอบ.com"
     }
   ]
