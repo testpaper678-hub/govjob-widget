@@ -1,21 +1,53 @@
 {
-  "updated_at": "2026-09-16T00:07:33.325045+00:00",
+  "updated_at": "2026-09-17T00:07:20.878989+00:00",
   "count": 55,
   "jobs": [
+    {
+      "agency": "สถาบันวิทยาลัยชุมชน",
+      "position": "สถาบันวิทยาลัยชุมชน เปิดรับสมัครพนักงานราชการทั่วไป 13 อัตรา",
+      "amount": "13 อัตรา",
+      "apply_date": "22 กันยายน - 11 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=416",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานผู้ตรวจการแผ่นดิน",
+      "position": "สำนักงานผู้ตรวจการแผ่นดิน เปิดรับสมัครสอบบรรจุเป็นลูกจ้างประจำ 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "24 กันยายน - 15 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=355",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "อุทยานแห่งชาติเขาใหญ่",
+      "position": "อุทยานแห่งชาติเขาใหญ่ เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 6 อัตรา",
+      "amount": "6 อัตรา",
+      "apply_date": "วันนี้ - 18 กันยายน   2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=370",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) ดูคะแนนสอบ ได้แล้ว!!!",
+      "position": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) ดูคะแนนสอบ ได้แล้ว!!!",
+      "amount": "",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=453",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สํานักงานนโยบายและยุทธศาสตร์การค้า",
+      "position": "สํานักงานนโยบายและยุทธศาสตร์การค้า เปิดรับสมัครพนักงานราชการทั่วไป 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "21 กันยายน - 12 ตุลาคม  2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=308",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "สำนักงานพัฒนาที่ดินเขต 3",
       "position": "สำนักงานพัฒนาที่ดินเขต 3  เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
       "amount": "2 อัตรา",
       "apply_date": "23 - 29 กันยายน  2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=597",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) แล้ว!!!",
-      "position": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) แล้ว!!!",
-      "amount": "",
-      "apply_date": "",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=453",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -56,14 +88,6 @@
       "amount": "49 อัตรา",
       "apply_date": "",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=250",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานปรมาณูเพื่อสันติ",
-      "position": "สำนักงานปรมาณูเพื่อสันติ   เปิดรับสมัครสอบบรรจุเข้ารับราชการ 1 อัตรา",
-      "amount": "1 อัตรา",
-      "apply_date": "16 กันยายน - 16 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=582",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -179,14 +203,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "สำนักงานการวิจัยแห่งชาติ",
-      "position": "สำนักงานการวิจัยแห่งชาติ  เปิดรับสมัครสอบบรรจุเข้ารับราชการ 1 อัตรา",
-      "amount": "1 อัตรา",
-      "apply_date": "27 สิงหาคม - 16 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=58",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "",
       "position": "เปิดรับสมัครสอบนักการทูต 60 อัตรา ประจำปี 2569",
       "amount": "60 อัตรา",
@@ -216,14 +232,6 @@
       "amount": "",
       "apply_date": "บัดนี้ - 30 ธันวาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=422",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "อุทยานแห่งชาติดอยอินทนนท์ (เชียงใหม่)",
-      "position": "อุทยานแห่งชาติดอยอินทนนท์ (เชียงใหม่)  เปิดรับสมัครจัดจ้างเป็นเจ้าหน้าที่ปฏิบัติงาน 195 อัตรา",
-      "amount": "195 อัตรา",
-      "apply_date": "วันนี้ - 11 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=370",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -264,6 +272,14 @@
       "amount": "",
       "apply_date": "",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=84",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานปรมาณูเพื่อสันติ",
+      "position": "สำนักงานปรมาณูเพื่อสันติ   เปิดรับสมัครสอบบรรจุเข้ารับราชการ 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "16 กันยายน - 16 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=582",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -371,6 +387,14 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "สำนักงานการวิจัยแห่งชาติ",
+      "position": "สำนักงานการวิจัยแห่งชาติ  เปิดรับสมัครสอบบรรจุเข้ารับราชการ 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "27 สิงหาคม - 16 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=58",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "สำนักงาน ป.ป.ส. ภาค 9",
       "position": "สำนักงาน ป.ป.ส. ภาค 9  เปิดรับสมัครลูกจ้างเหมาบริการบุคคลธรรมดา 13 อัตรา",
       "amount": "13 อัตรา",
@@ -416,30 +440,6 @@
       "amount": "12 อัตรา",
       "apply_date": "วันนี้ - 18 สิงหาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=13",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมการแพทย์",
-      "position": "กรมการแพทย์  เปิดรับสมัครคัดเลือกเพื่อบรรจุเข้ารับราชการ 55 อัตรา",
-      "amount": "55 อัตรา",
-      "apply_date": "20 - 26 สิงหาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=38",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานจัดรูปที่ดินกลาง",
-      "position": "สำนักงานจัดรูปที่ดินกลาง  เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 14 อัตรา",
-      "amount": "14 อัตรา",
-      "apply_date": "13 - 19 สิงหาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=374",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมกิจการเด็กและเยาวชน",
-      "position": "กรมกิจการเด็กและเยาวชน  เปิดรับสมัครพนักงานราชการทั่วไป (ส่วนภูมิภาค) 52 อัตรา",
-      "amount": "52 อัตรา",
-      "apply_date": "18 - 31 สิงหาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=646",
       "source": "ประกาศผลสอบ.com"
     }
   ]
