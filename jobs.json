@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-09-17T00:07:20.878989+00:00",
+  "updated_at": "2026-09-18T00:07:09.745332+00:00",
   "count": 55,
   "jobs": [
+    {
+      "agency": "กรมอุตุนิยมวิทยา",
+      "position": "กรมอุตุนิยมวิทยา เปิดรับสมัครจ้างเหมาบริการเอกชนปฏิบัติงาน 24 อัตรา",
+      "amount": "24 อัตรา",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=139",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "สถาบันวิทยาลัยชุมชน",
       "position": "สถาบันวิทยาลัยชุมชน เปิดรับสมัครพนักงานราชการทั่วไป 13 อัตรา",
@@ -64,14 +72,6 @@
       "amount": "1 อัตรา",
       "apply_date": "28 กันยายน - 2 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=53",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานจัดหางานจังหวัดเชียงราย",
-      "position": "สำนักงานจัดหางานจังหวัดเชียงราย เปิดรับสมัครพนักงานจ้างเหมาบริการ 10 อัตรา",
-      "amount": "10 อัตรา",
-      "apply_date": "วันนี้ - 17 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=191",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -259,6 +259,14 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "สำนักงานจัดหางานจังหวัดเชียงราย",
+      "position": "สำนักงานจัดหางานจังหวัดเชียงราย เปิดรับสมัครพนักงานจ้างเหมาบริการ 10 อัตรา",
+      "amount": "10 อัตรา",
+      "apply_date": "วันนี้ - 17 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=191",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "เปิดสอบ ก.พ.",
       "position": "เปิดสอบ ก.พ.",
       "amount": "",
@@ -432,14 +440,6 @@
       "amount": "22 อัตรา",
       "apply_date": "24 สิงหาคม - 11 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=183",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สถาบันประสาทวิทยา",
-      "position": "สถาบันประสาทวิทยา  เปิดรับสมัครพนักงานกระทรวงสาธารณสุขทั่วไป 12 อัตรา",
-      "amount": "12 อัตรา",
-      "apply_date": "วันนี้ - 18 สิงหาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=13",
       "source": "ประกาศผลสอบ.com"
     }
   ]
