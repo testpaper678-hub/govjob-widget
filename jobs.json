@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-18T00:07:09.745332+00:00",
-  "count": 55,
+  "updated_at": "2026-09-19T00:07:19.633629+00:00",
+  "count": 53,
   "jobs": [
     {
       "agency": "กรมอุตุนิยมวิทยา",
@@ -24,14 +24,6 @@
       "amount": "1 อัตรา",
       "apply_date": "24 กันยายน - 15 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=355",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "อุทยานแห่งชาติเขาใหญ่",
-      "position": "อุทยานแห่งชาติเขาใหญ่ เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 6 อัตรา",
-      "amount": "6 อัตรา",
-      "apply_date": "วันนี้ - 18 กันยายน   2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=370",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -80,14 +72,6 @@
       "amount": "2 อัตรา",
       "apply_date": "21 - 25 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=245",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "อุทยานแห่งชาติภูผาม่าน",
-      "position": "อุทยานแห่งชาติภูผาม่าน   เปิดรับสมัครบุคคลเพื่อปฏิบัติงาน 49 อัตรา",
-      "amount": "49 อัตรา",
-      "apply_date": "",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=250",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -203,30 +187,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "",
-      "position": "เปิดรับสมัครสอบนักการทูต 60 อัตรา ประจำปี 2569",
-      "amount": "60 อัตรา",
-      "apply_date": "28 สิงหาคม  - 18 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=182",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมสรรพากร",
-      "position": "กรมสรรพากร  เปิดรับสมัครสอบบรรจุเข้ารับราชการ 1,808 อัตรา",
-      "amount": "1,808 อัตรา",
-      "apply_date": "20 สิงหาคม -  18 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=144",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานศาลปกครอง",
-      "position": "สำนักงานศาลปกครอง  เปิดรับสมัครสอบบรรจุเข้ารับราชการ 72 อัตรา",
-      "amount": "72 อัตรา",
-      "apply_date": "31 สิงหาคม - 18 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=42",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "ธนาคารออมสิน",
       "position": "ธนาคารออมสิน เปิดรับสมัครบุคคลเพื่อเข้าปฏิบัติงานกับธนาคารออมสิน หลายอัตรา",
       "amount": "",
@@ -259,6 +219,14 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "อุทยานแห่งชาติเขาใหญ่",
+      "position": "อุทยานแห่งชาติเขาใหญ่ เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 6 อัตรา",
+      "amount": "6 อัตรา",
+      "apply_date": "วันนี้ - 18 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=370",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "สำนักงานจัดหางานจังหวัดเชียงราย",
       "position": "สำนักงานจัดหางานจังหวัดเชียงราย เปิดรับสมัครพนักงานจ้างเหมาบริการ 10 อัตรา",
       "amount": "10 อัตรา",
@@ -280,6 +248,14 @@
       "amount": "",
       "apply_date": "",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=84",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "อุทยานแห่งชาติภูผาม่าน",
+      "position": "อุทยานแห่งชาติภูผาม่าน   เปิดรับสมัครบุคคลเพื่อปฏิบัติงาน 49 อัตรา",
+      "amount": "49 อัตรา",
+      "apply_date": "วันนี้ - 18 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=250",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -432,6 +408,14 @@
       "amount": "8 อัตรา",
       "apply_date": "24 สิงหาคม - 14 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=299",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "",
+      "position": "เปิดรับสมัครสอบนักการทูต 60 อัตรา ประจำปี 2569",
+      "amount": "60 อัตรา",
+      "apply_date": "28 สิงหาคม - 18 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=182",
       "source": "ประกาศผลสอบ.com"
     },
     {
