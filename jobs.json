@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-25T00:08:14.135160+00:00",
-  "count": 53,
+  "updated_at": "2026-09-26T00:07:12.120941+00:00",
+  "count": 54,
   "jobs": [
+    {
+      "agency": "วิทยาลัยเทคนิคระยอง",
+      "position": "วิทยาลัยเทคนิคระยอง เปิดรับสมัครลูกจ้างชั่วคราว 6 อัตรา",
+      "amount": "6 อัตรา",
+      "apply_date": "วันนี้  - 5 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=606",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักบริหารพื้นที่อนุรักษ์ที่ 8 (ขอนแก่น)",
+      "position": "สำนักบริหารพื้นที่อนุรักษ์ที่ 8 (ขอนแก่น) เปิดรับสมัครพนักงานจ้างเหมาบุคคล 4 อัตรา",
+      "amount": "4 อัตรา",
+      "apply_date": "วันนี้  - 28 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=282",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ (สทบ)",
+      "position": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ (สทบ) เปิดรับสมัครสอบบรรจุเป็นพนักงาน 34 อัตรา",
+      "amount": "34 อัตรา",
+      "apply_date": "วันนี้  - 7 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=527",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "สำนักงานปลัดกระทรวง พม.",
       "position": "สำนักงานปลัดกระทรวง พม. เปิดรับสมัครพนักงานราชการทั่วไป 8 อัตรา",
@@ -123,14 +147,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "สำนักงานพัฒนาที่ดินเขต 7",
-      "position": "สำนักงานพัฒนาที่ดินเขต 7 เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "21 - 25 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=245",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "สถาบันวิทยาลัยชุมชน",
       "position": "สถาบันวิทยาลัยชุมชน  เปิดรับสมัครสอบบรรจุเข้ารับราชการ 17 อัตรา",
       "amount": "17 อัตรา",
@@ -168,14 +184,6 @@
       "amount": "3 อัตรา",
       "apply_date": "16 กันยายน  - 6 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=297",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กองพันจู่โจม TH-Ranger",
-      "position": "กองพันจู่โจม TH-Ranger  เปิดรับสมัคร พลทหารกองประจำการ (อาสาสมัคร) 86 นาย",
-      "amount": "86 นาย",
-      "apply_date": "1 - 25 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=425",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -219,19 +227,11 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "กรมกําลังพลทหาร",
-      "position": "กรมกําลังพลทหาร เปิดรับสมัครพนักงานราชการ  12 อัตรา",
-      "amount": "12 อัตรา",
-      "apply_date": "31 สิงหาคม - 11 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=9",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมอุตุนิยมวิทยา",
-      "position": "กรมอุตุนิยมวิทยา เปิดรับสมัครจ้างเหมาบริการเอกชนปฏิบัติงาน 24 อัตรา",
-      "amount": "24 อัตรา",
-      "apply_date": "",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=139",
+      "agency": "กองพันจู่โจม TH-Ranger",
+      "position": "กองพันจู่โจม TH-Ranger  เปิดรับสมัคร พลทหารกองประจำการ (อาสาสมัคร) 86 นาย",
+      "amount": "86 นาย",
+      "apply_date": "1 - 25 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=425",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -251,6 +251,14 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "กรมอุตุนิยมวิทยา",
+      "position": "กรมอุตุนิยมวิทยา เปิดรับสมัครจ้างเหมาบริการเอกชนปฏิบัติงาน 24 อัตรา",
+      "amount": "24 อัตรา",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=139",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "อุทยานแห่งชาติเขาใหญ่",
       "position": "อุทยานแห่งชาติเขาใหญ่ เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 6 อัตรา",
       "amount": "6 อัตรา",
@@ -264,6 +272,14 @@
       "amount": "10 อัตรา",
       "apply_date": "วันนี้ - 17 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=191",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานพัฒนาที่ดินเขต 7",
+      "position": "สำนักงานพัฒนาที่ดินเขต 7 เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "21 - 25 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=245",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -339,6 +355,14 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "กรมกําลังพลทหาร",
+      "position": "กรมกําลังพลทหาร เปิดรับสมัครพนักงานราชการ  12 อัตรา",
+      "amount": "12 อัตรา",
+      "apply_date": "31 สิงหาคม - 11 กันยายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=9",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "สำนักงานจัดรูปที่ดินและจัดระบบน้ำเพื่อเกษตรกรรมที่ 4",
       "position": "สำนักงานจัดรูปที่ดินและจัดระบบน้ำเพื่อเกษตรกรรมที่ 4    เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 7 อัตรา",
       "amount": "7 อัตรา",
@@ -408,22 +432,6 @@
       "amount": "21 อัตรา",
       "apply_date": "3 - 9 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=164",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมการขนส่งทางบก",
-      "position": "กรมการขนส่งทางบก   เปิดรับสมัครพนักงานกองทุน 4 อัตรา",
-      "amount": "4 อัตรา",
-      "apply_date": "1 - 9 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=512",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานคณะกรรมการอาหารและยา",
-      "position": "สำนักงานคณะกรรมการอาหารและยา   เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "3 - 9 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=104",
       "source": "ประกาศผลสอบ.com"
     }
   ]
