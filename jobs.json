@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-10-05T00:08:20.760877+00:00",
-  "count": 54,
+  "updated_at": "2026-10-06T04:09:21.385987+00:00",
+  "count": 55,
   "jobs": [
+    {
+      "agency": "สํานักงานวัฒนธรรมจังหวัดตาก",
+      "position": "สํานักงานวัฒนธรรมจังหวัดตาก เปิดรับสมัครจ้างเหมาบริการบุคคลภายนอก 3 อัตรา",
+      "amount": "3 อัตรา",
+      "apply_date": "วันนี้ - 12 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=560",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ศูนย์เมล็ดพันธุ์ข้าวร้อยเอ็ด",
+      "position": "ศูนย์เมล็ดพันธุ์ข้าวร้อยเอ็ด เปิดรับสมัครเจ้าหน้าที่ช่วยปฏิบัติงานโครงการ  7 อัตรา",
+      "amount": "7 อัตรา",
+      "apply_date": "วันนี้ - 9 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=564",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมทางหลวง",
+      "position": "กรมทางหลวง เปิดรับสมัครพนักงานราชการทั่วไป  70 อัตรา",
+      "amount": "70 อัตรา",
+      "apply_date": "19 - 26 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=226",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานจัดหางานจังหวัดพิจิตร",
+      "position": "สำนักงานจัดหางานจังหวัดพิจิตร เปิดรับสมัครลูกจ้างชั่วคราว 4 อัตรา",
+      "amount": "4 อัตรา",
+      "apply_date": "5 - 7 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=364",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "การท่าเรือแห่งประเทศไทย",
       "position": "การท่าเรือแห่งประเทศไทย เปิดรับสมัครเป็นพนักงานการท่าเรือแห่งประเทศไทย 4 อัตรา",
@@ -56,14 +88,6 @@
       "amount": "20 อัตรา",
       "apply_date": "7 - 29 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=450",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานจัดหางานจังหวัดเชียงราย",
-      "position": "สำนักงานจัดหางานจังหวัดเชียงราย  เปิดรับสมัครลูกจ้างชั่วคราว  17 อัตรา",
-      "amount": "17 อัตรา",
-      "apply_date": "วันนี้ - 5 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=191",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -128,14 +152,6 @@
       "amount": "35 อัตรา",
       "apply_date": "1 -7 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=552",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "วิทยาลัยเทคนิคระยอง",
-      "position": "วิทยาลัยเทคนิคระยอง เปิดรับสมัครลูกจ้างชั่วคราว 6 อัตรา",
-      "amount": "6 อัตรา",
-      "apply_date": "วันนี้  - 5 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=606",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -283,11 +299,27 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "สำนักงานจัดหางานจังหวัดเชียงราย",
+      "position": "สำนักงานจัดหางานจังหวัดเชียงราย  เปิดรับสมัครลูกจ้างชั่วคราว  17 อัตรา",
+      "amount": "17 อัตรา",
+      "apply_date": "วันนี้ - 5 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=191",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "สำนักงานอุตสาหกรรมจังหวัดนครพนม",
       "position": "สำนักงานอุตสาหกรรมจังหวัดนครพนม   เปิดรับสมัครพนักงานจ้างเหมาบริการ 3 อัตรา",
       "amount": "3 อัตรา",
       "apply_date": "วันนี้ - 2 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=145",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "วิทยาลัยเทคนิคระยอง",
+      "position": "วิทยาลัยเทคนิคระยอง เปิดรับสมัครลูกจ้างชั่วคราว 6 อัตรา",
+      "amount": "6 อัตรา",
+      "apply_date": "วันนี้ - 5 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=606",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -408,30 +440,6 @@
       "amount": "4 อัตรา",
       "apply_date": "วันนี้ - 14 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=23",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมทรัพยากรน้ำบาดาล",
-      "position": "กรมทรัพยากรน้ำบาดาล  เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 20 อัตรา",
-      "amount": "20 อัตรา",
-      "apply_date": "วันนี้ - 11 กันยายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=51",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานปลัดกระทรวงพลังงาน",
-      "position": "สำนักงานปลัดกระทรวงพลังงาน เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "14 กันยายน - 2 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=623",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานปลัดกระทรวงพลังงาน",
-      "position": "สำนักงานปลัดกระทรวงพลังงาน เปิดรับสมัครสอบบรรจุเข้ารับราชการ 7 อัตรา",
-      "amount": "7 อัตรา",
-      "apply_date": "14 กันยายน - 2 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=143",
       "source": "ประกาศผลสอบ.com"
     }
   ]
