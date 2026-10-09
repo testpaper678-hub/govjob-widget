@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-10-08T03:51:08.210532+00:00",
-  "count": 56,
+  "updated_at": "2026-10-09T03:56:21.713210+00:00",
+  "count": 57,
   "jobs": [
-    {
-      "agency": "TED Fund สำนักงานปลัดกระทรวง อว.",
-      "position": "TED Fund สำนักงานปลัดกระทรวง อว. เปิดรับสมัครพนักงานทุนหมุนเวียน 5 อัตรา",
-      "amount": "5 อัตรา",
-      "apply_date": "วันนี้ - 31 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=175",
-      "source": "ประกาศผลสอบ.com"
-    },
     {
       "agency": "เปิดสอบครูผู้ช่วย 2569  รอบทั่วไป สังกัด สพฐ. ประจำปี 2569",
       "position": "เปิดสอบครูผู้ช่วย 2569  รอบทั่วไป สังกัด สพฐ. ประจำปี 2569",
       "amount": "",
       "apply_date": "19 -25 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=86",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงาน ป.ป.ส. กทม.",
+      "position": "สำนักงาน ป.ป.ส. กทม. เปิดรับสมัครลูกจ้างเหมาบริการ 10 อัตรา",
+      "amount": "10 อัตรา",
+      "apply_date": "14 - 12 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=164",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานจัดหางานจังหวัดปทุมธานี",
+      "position": "สำนักงานจัดหางานจังหวัดปทุมธานี เปิดรับสมัครลูกจ้างชั่วคราว 11 อัตรา",
+      "amount": "11 อัตรา",
+      "apply_date": "วันนี้ - 12 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=191",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "โรงพยาบาลราชวิถี",
+      "position": "โรงพยาบาลราชวิถี เปิดรับสมัครพนักงานกระทรวงสาธารณสุขทั่วไป 110 อัตรา",
+      "amount": "110 อัตรา",
+      "apply_date": "14 - 21 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=389",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "TED Fund สำนักงานปลัดกระทรวง อว.",
+      "position": "TED Fund สำนักงานปลัดกระทรวง อว. เปิดรับสมัครพนักงานทุนหมุนเวียน 5 อัตรา",
+      "amount": "5 อัตรา",
+      "apply_date": "วันนี้ - 31 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=175",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -56,14 +80,6 @@
       "amount": "3 อัตรา",
       "apply_date": "วันนี้ - 13 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=104",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมอุตุนิยมวิทยา",
-      "position": "กรมอุตุนิยมวิทยา เปิดรับสมัครจ้างเหมาบริการเอกชนปฏิบัติงาน 2 อัตร",
-      "amount": "",
-      "apply_date": "วันนี้ - 8 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=161",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -331,6 +347,14 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "กรมอุตุนิยมวิทยา",
+      "position": "กรมอุตุนิยมวิทยา เปิดรับสมัครจ้างเหมาบริการเอกชนปฏิบัติงาน 2 อัตร",
+      "amount": "2 อัตรา",
+      "apply_date": "วันนี้ - 8 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=161",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "สำนักงานจัดหางานจังหวัดพิจิตร",
       "position": "สำนักงานจัดหางานจังหวัดพิจิตร เปิดรับสมัครลูกจ้างชั่วคราว 4 อัตรา",
       "amount": "4 อัตรา",
@@ -352,14 +376,6 @@
       "amount": "1 อัตรา",
       "apply_date": "1 - 7 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=227",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานจัดหางานจังหวัดเชียงราย",
-      "position": "สำนักงานจัดหางานจังหวัดเชียงราย  เปิดรับสมัครลูกจ้างชั่วคราว  17 อัตรา",
-      "amount": "17 อัตรา",
-      "apply_date": "วันนี้ - 5 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=191",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -440,14 +456,6 @@
       "amount": "2 อัตรา",
       "apply_date": "23 - 29 กันยายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=597",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมวิชาการเกษตร  (สวพ. 4)",
-      "position": "กรมวิชาการเกษตร  (สวพ. 4) เปิดรับสมัครพนักงานราชการทั่วไป ( อุบลราชธานี ) 1 อัตรา",
-      "amount": "1 อัตรา",
-      "apply_date": "28 กันยายน - 2 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=53",
       "source": "ประกาศผลสอบ.com"
     }
   ]
