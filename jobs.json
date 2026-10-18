@@ -1,5 +1,470 @@
 {
-  "updated_at": "2026-10-17T02:25:14.196616+00:00",
-  "count": 0,
-  "jobs": []
+  "updated_at": "2026-10-18T02:25:36.851130+00:00",
+  "count": 58,
+  "jobs": [
+    {
+      "agency": "สกร. จังหวัดขอนแก่น",
+      "position": "สกร. จังหวัดขอนแก่น เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "20 - 27 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=486",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมพินิจและคุ้มครองเด็กและเยาวชน",
+      "position": "กรมพินิจและคุ้มครองเด็กและเยาวชน เปิดรับสมัครคัดเลือกเพื่อบรรจุเข้ารับราชการ  7 อัตรา",
+      "amount": "7 อัตรา",
+      "apply_date": "27 ตุลาคม - 13 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=119",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานก่อสร้างชลประทานขนาดกลางที่ 1",
+      "position": "สำนักงานก่อสร้างชลประทานขนาดกลางที่ 1 เปิดรับสมัครลูกจ้างชั่วคราว (รายวัน)  5 อัตรา",
+      "amount": "5 อัตรา",
+      "apply_date": "วันนี้ - 28 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=20",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "มหาวิทยาลัยราชภัฏสงขลา",
+      "position": "มหาวิทยาลัยราชภัฏสงขลา เปิดรับสมัครพนักงานจ้างเหมาบริการ 7 อัตรา",
+      "amount": "7 อัตรา",
+      "apply_date": "19 - 22 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=570",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "โรงพยาบาลธัญญารักษ์อุดรธานี",
+      "position": "โรงพยาบาลธัญญารักษ์อุดรธานี  เปิดรับสมัครพนักงานราชการทั่วไป 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "วันนี้ - 22 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=567",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานจัดหางานจังหวัดสมุทรปราการ",
+      "position": "สำนักงานจัดหางานจังหวัดสมุทรปราการ  เปิดรับสมัครลูกจ้างชั่วคราว 20 อัตรา",
+      "amount": "20 อัตรา",
+      "apply_date": "วันนี้ - 20 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=191",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "วิทยาลัยเทคนิคระยอง",
+      "position": "วิทยาลัยเทคนิคระยอง เปิดรับสมัครลูกจ้างชั่วคราว 8 อัตรา",
+      "amount": "8 อัตรา",
+      "apply_date": "วันนี้ - 21 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=272",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานสรรพสามิตภาคที่ 10",
+      "position": "สำนักงานสรรพสามิตภาคที่ 10  เปิดรับสมัครลูกจ้างชั่วคราว 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "21 - 30 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=635",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สถาบันพัฒนาบุคลากรด้านการคลังและบัญชีภาครัฐ",
+      "position": "สถาบันพัฒนาบุคลากรด้านการคลังและบัญชีภาครัฐ  เปิดรับสมัครลูกจ้างชั่วคราว 1  อัตรา",
+      "amount": "1  อัตรา",
+      "apply_date": "14 -26  ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=584",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "องค์การบริหารส่วนจังหวัดเชียงใหม่",
+      "position": "องค์การบริหารส่วนจังหวัดเชียงใหม่ รับสมัครมีเหตุพิเศษที่ไม่จำเป็นต้องสอบแข่งขัน 147 อัตรา",
+      "amount": "147 อัตรา",
+      "apply_date": "29 ตุลาคม - 5 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=149",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมสุขภาพจิต",
+      "position": "กรมสุขภาพจิต เปิดรับสมัครสอบบรรจุเข้ารับราชการ  5 อัตรา",
+      "amount": "5 อัตรา",
+      "apply_date": "26 ตุลาคม - 13 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=82",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "เปิดสอบครูผู้ช่วย 2569  รอบทั่วไป สังกัด สพฐ. ประจำปี 2569 (อัพเดทล่าสุด)",
+      "position": "เปิดสอบครูผู้ช่วย 2569  รอบทั่วไป สังกัด สพฐ. ประจำปี 2569 (อัพเดทล่าสุด)",
+      "amount": "",
+      "apply_date": "19 -25 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=86",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานบริหารหนี้สาธารณะ",
+      "position": "สำนักงานบริหารหนี้สาธารณะ เปิดรับสมัครสอบบรรจุเข้ารับราชการ  6 อัตรา",
+      "amount": "6 อัตรา",
+      "apply_date": "26 ตุลาคม - 19 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=412",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานโยธาธิการและผังเมืองจังหวัดอำนาจเจริญ",
+      "position": "สำนักงานโยธาธิการและผังเมืองจังหวัดอำนาจเจริญ เปิดรับสมัครพนักงานราชการทั่วไป  1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "26 - 30 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=254",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ศูนย์วิจัยและบำรุงพันธุ์สัตว์ นครสวรรค์",
+      "position": "ศูนย์วิจัยและบำรุงพันธุ์สัตว์ นครสวรรค์ เปิดรับสมัครพนักงานราชการทั่วไป  3 อัตรา",
+      "amount": "3 อัตรา",
+      "apply_date": "12 - 21 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=29",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "บ้านพักเด็กและครอบครัวจังหวัดศรีสะเกษ",
+      "position": "บ้านพักเด็กและครอบครัวจังหวัดศรีสะเกษ เปิดรับสมัครพนักงานจ้างเหมาบริการ  4 อัตรา",
+      "amount": "4 อัตรา",
+      "apply_date": "12-21 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=571",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "วิทยาลัยเทคนิคพัทยา",
+      "position": "วิทยาลัยเทคนิคพัทยา  เปิดรับสมัครลูกจ้างชั่วคราว 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "14 - 20 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=606",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานเกษตรและสหกรณ์จังหวัดขอนแก่น",
+      "position": "สำนักงานเกษตรและสหกรณ์จังหวัดขอนแก่น  เปิดรับสมัครพนักงานราชการทั่วไป  2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "19 - 26 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=132",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานบังคับคดีจังหวัดอุบลราชธานี",
+      "position": "สำนักงานบังคับคดีจังหวัดอุบลราชธานี เปิดรับสมัครลูกจ้างชั่วคราว 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "15 - 22 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=7",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "โรงพยาบาลราชวิถี",
+      "position": "โรงพยาบาลราชวิถี เปิดรับสมัครพนักงานกระทรวงสาธารณสุขทั่วไป 110 อัตรา",
+      "amount": "110 อัตรา",
+      "apply_date": "14 - 21 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=389",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "TED Fund สำนักงานปลัดกระทรวง อว.",
+      "position": "TED Fund สำนักงานปลัดกระทรวง อว. เปิดรับสมัครพนักงานทุนหมุนเวียน 5 อัตรา",
+      "amount": "5 อัตรา",
+      "apply_date": "วันนี้ - 31 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=175",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานศึกษาธิการจังหวัดนครพนม",
+      "position": "สำนักงานศึกษาธิการจังหวัดนครพนม เปิดรับสมัครพนักงานจ้างปฏิบัติงาน 6 อัตรา",
+      "amount": "6 อัตรา",
+      "apply_date": "วันนี้ - 15 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=580",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สํานักงานปลัดกระทรวง อว.",
+      "position": "สํานักงานปลัดกระทรวง อว. เปิดรับสมัครจัดจ้างเอกชนดําเนินงาน 7 อัตรา",
+      "amount": "7 อัตรา",
+      "apply_date": "วันนี้  - 18 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=429",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สพป.โสธร เขต 2",
+      "position": "สพป.โสธร เขต 2  เปิดรับสมัครพนักงานราชการทั่วไป 17 อัตรา",
+      "amount": "17 อัตรา",
+      "apply_date": "12 - 18 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=249",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สกร.สมุทรสงคราม",
+      "position": "สกร.สมุทรสงคราม เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "12 - 19 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=409",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สหกรณ์ออมทรัพย์พนักงานเทศบาล จำกัด",
+      "position": "สหกรณ์ออมทรัพย์พนักงานเทศบาล จำกัด เปิดรับสมัครเพื่อแต่งตั้งให้ดำรงตำแหน่งเจ้าหน้าที่สหกรณ์ 9 อัตรา",
+      "amount": "9 อัตรา",
+      "apply_date": "19 - 30 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=128",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ศูนย์เมล็ดพันธุ์ข้าวร้อยเอ็ด",
+      "position": "ศูนย์เมล็ดพันธุ์ข้าวร้อยเอ็ด เปิดรับสมัครเจ้าหน้าที่ช่วยปฏิบัติงานโครงการ  7 อัตรา",
+      "amount": "7 อัตรา",
+      "apply_date": "วันนี้ - 9 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=564",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมทางหลวง",
+      "position": "กรมทางหลวง เปิดรับสมัครพนักงานราชการทั่วไป  70 อัตรา",
+      "amount": "70 อัตรา",
+      "apply_date": "19 - 26 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=226",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "การท่าเรือแห่งประเทศไทย",
+      "position": "การท่าเรือแห่งประเทศไทย เปิดรับสมัครเป็นพนักงานการท่าเรือแห่งประเทศไทย 4 อัตรา",
+      "amount": "4 อัตรา",
+      "apply_date": "12 ตุลาคม - 4 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=440",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมตรวจบัญชีสหกรณ์",
+      "position": "กรมตรวจบัญชีสหกรณ์  เปิดรับสมัครสอบบรรจุเข้ารับราชการ  20 อัตรา",
+      "amount": "20 อัตรา",
+      "apply_date": "7 - 29 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=450",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานปลัดกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม",
+      "position": "สำนักงานปลัดกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม  เปิดรับสมัครพนักงานราชการทั่วไป 4 อัตรา",
+      "amount": "4 อัตรา",
+      "apply_date": "1 - 26 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=52",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานปลัดกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม",
+      "position": "สำนักงานปลัดกระทรวงดิจิทัลเพื่อเศรษฐกิจและสังคม  เปิดรับสมัครสอบบรรจุเข้ารับราชการ 5 อัตรา",
+      "amount": "5 อัตรา",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=346",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานปลัดกระทรวง พม.",
+      "position": "สำนักงานปลัดกระทรวง พม. เปิดรับสมัครสอบบรรจุเข้ารับราชการ 13 อัตรา",
+      "amount": "13 อัตรา",
+      "apply_date": "1 - 26 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=526",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมที่ดิน",
+      "position": "กรมที่ดิน เปิดรับสมัครสอบบรรจุเข้ารับราชการ 26 อัตรา",
+      "amount": "26 อัตรา",
+      "apply_date": "2 - 29 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=344",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) ดูคะแนนสอบ ได้แล้ว!!!",
+      "position": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) ดูคะแนนสอบ ได้แล้ว!!!",
+      "amount": "",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=453",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงาน ป.ป.ส.",
+      "position": "สำนักงาน ป.ป.ส.  เปิดรับสมัครสอบบรรจุเข้ารับราชการ  19 อัตรา",
+      "amount": "19 อัตรา",
+      "apply_date": "21 กันยายน - 19 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=231",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ธนาคารออมสิน",
+      "position": "ธนาคารออมสิน เปิดรับสมัครบุคคลเพื่อเข้าปฏิบัติงานกับธนาคารออมสิน หลายอัตรา",
+      "amount": "",
+      "apply_date": "บัดนี้ - 30 ธันวาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=422",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "โรงพยาบาลภูมิพลอดุลยเดช กรมแพทย์ทหารอากาศ",
+      "position": "โรงพยาบาลภูมิพลอดุลยเดช กรมแพทย์ทหารอากาศ เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 373 อัตรา",
+      "amount": "373 อัตรา",
+      "apply_date": "1 -9 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=206",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ (สทบ)",
+      "position": "สำนักงานกองทุนหมู่บ้านและชุมชนเมืองแห่งชาติ (สทบ) เปิดรับสมัครสอบบรรจุเป็นพนักงาน 34 อัตรา",
+      "amount": "34 อัตรา",
+      "apply_date": "วันนี้  - 7 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=527",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ศูนย์เมล็ดพันธุ์ข้าวชัยภูมิ",
+      "position": "ศูนย์เมล็ดพันธุ์ข้าวชัยภูมิ เปิดรับสมัครผู้ช่วยปฏิบัติงานโครงการ 3 อัตรา",
+      "amount": "3 อัตรา",
+      "apply_date": "วันนี้ - 16 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=392",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "เปิดสอบ ก.พ.",
+      "position": "เปิดสอบ ก.พ.",
+      "amount": "",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=102",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ข่าวสอบท้องถิ่น",
+      "position": "ข่าวสอบท้องถิ่น",
+      "amount": "",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=84",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานจัดหางานจังหวัดมหาสารคาม",
+      "position": "สำนักงานจัดหางานจังหวัดมหาสารคาม  เปิดรับสมัครลูกจ้างชั่วคราว 3  อัตรา",
+      "amount": "3  อัตรา",
+      "apply_date": "14 -16 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=364",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ทสจ. พิษณุโลก",
+      "position": "ทสจ. พิษณุโลก เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน  6 อัตรา",
+      "amount": "6 อัตรา",
+      "apply_date": "วันนี้ - 15 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=476",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ",
+      "position": "โรงพยาบาลธรรมศาสตร์เฉลิมพระเกียรติ เปิดรับสมัครพนักงานเงินรายได้โรงพยาบาล  102 อัตรา",
+      "amount": "102 อัตรา",
+      "apply_date": "วันนี้ - 16 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=27",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงาน ป.ป.ส. กทม.",
+      "position": "สำนักงาน ป.ป.ส. กทม. เปิดรับสมัครลูกจ้างเหมาบริการ 10 อัตรา",
+      "amount": "10 อัตรา",
+      "apply_date": "14 - 21 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=164",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กองทัพภาคที่ 3",
+      "position": "กองทัพภาคที่ 3 เปิดรับสมัครอาสาสมัครทหารพราน 115 อัตรา",
+      "amount": "115 อัตรา",
+      "apply_date": "วันนี้ - 15 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=260",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กองเศรษฐกิจผลิตภัณฑ์สุขภาพ",
+      "position": "กองเศรษฐกิจผลิตภัณฑ์สุขภาพ  เปิดรับสมัครลูกจ้างโครงการ 3 อัตรา",
+      "amount": "3 อัตรา",
+      "apply_date": "วันนี้ - 13 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=104",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมอุตุนิยมวิทยา",
+      "position": "กรมอุตุนิยมวิทยา เปิดรับสมัครจ้างเหมาบริการเอกชนปฏิบัติงาน 2 อัตร",
+      "amount": "2 อัตรา",
+      "apply_date": "วันนี้ - 8 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=161",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สํานักงานวัฒนธรรมจังหวัดตาก",
+      "position": "สํานักงานวัฒนธรรมจังหวัดตาก เปิดรับสมัครจ้างเหมาบริการบุคคลภายนอก 3 อัตรา",
+      "amount": "3 อัตรา",
+      "apply_date": "วันนี้ - 12 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=560",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานสาธารณสุขจังหวัดกาฬสินธุ",
+      "position": "สำนักงานสาธารณสุขจังหวัดกาฬสินธุ  เปิดรับสมัครคัดเลือกเพื่อบรรจุและแต่งตั้งบุคคลเข้ารับราชการ 22 อัตรา",
+      "amount": "22 อัตรา",
+      "apply_date": "5 - 9 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=16",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมการข้าว กองวิจัยและพัฒนาข้าว",
+      "position": "กรมการข้าว กองวิจัยและพัฒนาข้าว  เปิดรับสมัครจ้างเหมาบริการ 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "วันนี้ - 7 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=385",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานแรงงานจังหวัดนครราชสีมา",
+      "position": "สำนักงานแรงงานจังหวัดนครราชสีมา เปิดรับสมัครบุคคลเป็นบัณฑิตแรงงาน  4 อัตรา",
+      "amount": "4 อัตรา",
+      "apply_date": "5 - 9 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=491",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานพระพุทธศาสนาจังหวัดอุตรดิตถ์",
+      "position": "สำนักงานพระพุทธศาสนาจังหวัดอุตรดิตถ์ เปิดรับสมัครพนักงานจ้างเหมาบริการ  1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "1 - 7 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=227",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานปลัดกระทรวงมหาดไทย",
+      "position": "สำนักงานปลัดกระทรวงมหาดไทย  เปิดรับสมัครพนักงานราชการทั่วไป(จังหวัดสตูล) 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "9 - 16 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=351",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานอุตสาหกรรมจังหวัดนครพนม",
+      "position": "สำนักงานอุตสาหกรรมจังหวัดนครพนม   เปิดรับสมัครพนักงานจ้างเหมาบริการ 3 อัตรา",
+      "amount": "3 อัตรา",
+      "apply_date": "วันนี้ - 2 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=145",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานสหกรณ์จังหวัดอุบลราชธานี",
+      "position": "สำนักงานสหกรณ์จังหวัดอุบลราชธานี   เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "5 -9 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=460",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สถาบันสุขภาพเด็กแห่งชาติมหาราชินี",
+      "position": "สถาบันสุขภาพเด็กแห่งชาติมหาราชินี  เปิดรับสมัครพนักงานกระทรวงสาธารณสุขทั่วไป 35 อัตรา",
+      "amount": "35 อัตรา",
+      "apply_date": "1 -7 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=552",
+      "source": "ประกาศผลสอบ.com"
+    }
+  ]
 }
