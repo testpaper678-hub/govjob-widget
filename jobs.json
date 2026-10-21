@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-20T02:51:50.777703+00:00",
+  "updated_at": "2026-10-21T02:46:03.025962+00:00",
   "count": 59,
   "jobs": [
+    {
+      "agency": "กรมทางหลวงชนบท",
+      "position": "กรมทางหลวงชนบท   เปิดรับสมัครสอบบรรจุเข้ารับราชการ 24 อัตรา",
+      "amount": "24 อัตรา",
+      "apply_date": "29 ตุลาคม - 18 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=127",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สกร.อำนาจเจริญ",
+      "position": "สกร.อำนาจเจริญ   เปิดรับสมัครจ้างเหมาบริการรายบุคคล 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "20 - 22 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=409",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กองทัพอากาศ",
+      "position": "กองทัพอากาศ  เปิดรับสมัครทหารอาสา 50 อัตรา",
+      "amount": "50 อัตรา",
+      "apply_date": "วันนี้ - 22 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=262",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "เปิดสอบครูผู้ช่วย 2569  รอบทั่วไป สังกัด สพฐ. ประจำปี 2569 (อัพเดทล่าสุด)",
       "position": "เปิดสอบครูผู้ช่วย 2569  รอบทั่วไป สังกัด สพฐ. ประจำปี 2569 (อัพเดทล่าสุด)",
@@ -91,14 +115,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "สำนักงานจัดหางานจังหวัดสมุทรปราการ",
-      "position": "สำนักงานจัดหางานจังหวัดสมุทรปราการ  เปิดรับสมัครลูกจ้างชั่วคราว 20 อัตรา",
-      "amount": "20 อัตรา",
-      "apply_date": "วันนี้ - 20 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=191",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "วิทยาลัยเทคนิคระยอง",
       "position": "วิทยาลัยเทคนิคระยอง เปิดรับสมัครลูกจ้างชั่วคราว 8 อัตรา",
       "amount": "8 อัตรา",
@@ -168,14 +184,6 @@
       "amount": "4 อัตรา",
       "apply_date": "12-21 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=571",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "วิทยาลัยเทคนิคพัทยา",
-      "position": "วิทยาลัยเทคนิคพัทยา  เปิดรับสมัครลูกจ้างชั่วคราว 1 อัตรา",
-      "amount": "1 อัตรา",
-      "apply_date": "14 - 20 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=606",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -315,14 +323,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "กรมแพทย์ทหารอากาศ",
-      "position": "กรมแพทย์ทหารอากาศ เปิดรับสมัครลูกจ้างชั่วคราวรายเดือน 99 อัตรา",
-      "amount": "99 อัตรา",
-      "apply_date": "1 - 9 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=101",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "เปิดสอบ ก.พ.",
       "position": "เปิดสอบ ก.พ.",
       "amount": "",
@@ -336,6 +336,14 @@
       "amount": "",
       "apply_date": "",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=84",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานจัดหางานจังหวัดสมุทรปราการ",
+      "position": "สำนักงานจัดหางานจังหวัดสมุทรปราการ  เปิดรับสมัครลูกจ้างชั่วคราว 20 อัตรา",
+      "amount": "20 อัตรา",
+      "apply_date": "วันนี้ - 20 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=191",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -360,6 +368,14 @@
       "amount": "6 อัตรา",
       "apply_date": "วันนี้ - 15 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=476",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "วิทยาลัยเทคนิคพัทยา",
+      "position": "วิทยาลัยเทคนิคพัทยา  เปิดรับสมัครลูกจ้างชั่วคราว 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "14 - 20 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=606",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -419,14 +435,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "สกร.สมุทรสงคราม",
-      "position": "สกร.สมุทรสงคราม เปิดรับสมัครพนักงานราชการทั่วไป 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "12 - 19 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=409",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "สํานักงานวัฒนธรรมจังหวัดตาก",
       "position": "สํานักงานวัฒนธรรมจังหวัดตาก เปิดรับสมัครจ้างเหมาบริการบุคคลภายนอก 3 อัตรา",
       "amount": "3 อัตรา",
@@ -464,14 +472,6 @@
       "amount": "1 อัตรา",
       "apply_date": "1 - 7 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=227",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานปลัดกระทรวงมหาดไทย",
-      "position": "สำนักงานปลัดกระทรวงมหาดไทย  เปิดรับสมัครพนักงานราชการทั่วไป(จังหวัดสตูล) 1 อัตรา",
-      "amount": "1 อัตรา",
-      "apply_date": "9 - 16 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=351",
       "source": "ประกาศผลสอบ.com"
     }
   ]
