@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-10-22T02:44:10.046737+00:00",
-  "count": 59,
+  "updated_at": "2026-10-23T02:48:10.591299+00:00",
+  "count": 61,
   "jobs": [
+    {
+      "agency": "องค์การบริหารส่วนจังหวัดสมุทรปราการ",
+      "position": "องค์การบริหารส่วนจังหวัดสมุทรปราการ  เปิดรับสมัครเป็นพนักงานจ้าง 96 อัตรา",
+      "amount": "96 อัตรา",
+      "apply_date": "5 - 13 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=87",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมธนารักษ์",
+      "position": "กรมธนารักษ์   เปิดรับสมัครสอบบรรจุเข้ารับราชการ 15 อัตรา",
+      "amount": "15 อัตรา",
+      "apply_date": "30  ตุลาคม  - 19 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=637",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "สำนักงานคณะกรรมการอ้อยและน้ำตาลทราย",
       "position": "สำนักงานคณะกรรมการอ้อยและน้ำตาลทราย เปิดรับสมัครเป็นลูกจ้าง 15 อัตรา (หลายจังหวัด)",
@@ -51,14 +67,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "สกร.อำนาจเจริญ",
-      "position": "สกร.อำนาจเจริญ   เปิดรับสมัครจ้างเหมาบริการรายบุคคล 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "20 - 22 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=409",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "กองทัพอากาศ",
       "position": "กองทัพอากาศ  เปิดรับสมัครทหารอาสา 50 อัตรา",
       "amount": "50 อัตรา",
@@ -80,22 +88,6 @@
       "amount": "5 อัตรา",
       "apply_date": "2 - 20 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=357",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักบริหารพื้นที่อนุรักษ์ที่ 16 (เชียงใหม่)",
-      "position": "สำนักบริหารพื้นที่อนุรักษ์ที่ 16 (เชียงใหม่)  เปิดรับสมัครบุคคลภายนอกช่วยปฏิบัติงาน 5 อัตรา",
-      "amount": "5 อัตรา",
-      "apply_date": "วันนี้ - 22 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=238",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "แขวงทางหลวงชนบทหนองคาย",
-      "position": "แขวงทางหลวงชนบทหนองคาย เปิดรับสมัครลูกจ้างชั่วคราวรายวัน  17 อัตรา",
-      "amount": "17 อัตรา",
-      "apply_date": "วันนี้ -  22 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=565",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -144,14 +136,6 @@
       "amount": "7 อัตรา",
       "apply_date": "19 - 22 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=570",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "โรงพยาบาลธัญญารักษ์อุดรธานี",
-      "position": "โรงพยาบาลธัญญารักษ์อุดรธานี  เปิดรับสมัครพนักงานราชการทั่วไป 1 อัตรา",
-      "amount": "1 อัตรา",
-      "apply_date": "วันนี้ - 22 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=567",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -208,14 +192,6 @@
       "amount": "2 อัตรา",
       "apply_date": "19 - 26 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=132",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานบังคับคดีจังหวัดอุบลราชธานี",
-      "position": "สำนักงานบังคับคดีจังหวัดอุบลราชธานี เปิดรับสมัครลูกจ้างชั่วคราว 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "15 - 22 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=7",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -323,6 +299,14 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "สกร.อำนาจเจริญ",
+      "position": "สกร.อำนาจเจริญ   เปิดรับสมัครจ้างเหมาบริการรายบุคคล 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "20 - 22 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=409",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "เปิดสอบ ก.พ.",
       "position": "เปิดสอบ ก.พ.",
       "amount": "",
@@ -336,6 +320,30 @@
       "amount": "",
       "apply_date": "",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=84",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักบริหารพื้นที่อนุรักษ์ที่ 16 (เชียงใหม่)",
+      "position": "สำนักบริหารพื้นที่อนุรักษ์ที่ 16 (เชียงใหม่)  เปิดรับสมัครบุคคลภายนอกช่วยปฏิบัติงาน 5 อัตรา",
+      "amount": "5 อัตรา",
+      "apply_date": "วันนี้ - 22 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=238",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "แขวงทางหลวงชนบทหนองคาย",
+      "position": "แขวงทางหลวงชนบทหนองคาย เปิดรับสมัครลูกจ้างชั่วคราวรายวัน  17 อัตรา",
+      "amount": "17 อัตรา",
+      "apply_date": "วันนี้ - 22 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=565",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "โรงพยาบาลธัญญารักษ์อุดรธานี",
+      "position": "โรงพยาบาลธัญญารักษ์อุดรธานี  เปิดรับสมัครพนักงานราชการทั่วไป 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "วันนี้ - 22 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=567",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -408,6 +416,14 @@
       "amount": "102 อัตรา",
       "apply_date": "วันนี้ - 16 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=27",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานบังคับคดีจังหวัดอุบลราชธานี",
+      "position": "สำนักงานบังคับคดีจังหวัดอุบลราชธานี เปิดรับสมัครลูกจ้างชั่วคราว 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "15 - 22 ตุลาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=7",
       "source": "ประกาศผลสอบ.com"
     },
     {
