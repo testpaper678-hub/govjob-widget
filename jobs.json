@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-24T02:45:22.049730+00:00",
-  "count": 61,
+  "updated_at": "2026-10-25T02:35:44.192364+00:00",
+  "count": 62,
   "jobs": [
+    {
+      "agency": "กรมบังคับคดี (ส่วนกลาง)",
+      "position": "กรมบังคับคดี (ส่วนกลาง)  เปิดรับสมัครลูกจ้างชั่วคราว 50 อัตรา",
+      "amount": "50 อัตรา",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=289",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สกร.กาฬสินธุ์",
+      "position": "สกร.กาฬสินธุ์  เปิดรับสมัครเพื่อจ้างเหมาเอกชนดำเนินงาน 19 อัตรา",
+      "amount": "19 อัตรา",
+      "apply_date": "28 ตุลาคม - 4 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=409",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมการทหารสื่อสาร",
+      "position": "กรมการทหารสื่อสาร  เปิดรับสมัครพนักงานราชการ 6 อัตรา",
+      "amount": "6 อัตรา",
+      "apply_date": "26 ตุลาคม - 6 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=383",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "องค์การบริหารส่วนจังหวัดสมุทรปราการ",
       "position": "องค์การบริหารส่วนจังหวัดสมุทรปราการ  เปิดรับสมัครเป็นพนักงานจ้าง 96 อัตรา",
@@ -299,14 +323,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "สกร.อำนาจเจริญ",
-      "position": "สกร.อำนาจเจริญ   เปิดรับสมัครจ้างเหมาบริการรายบุคคล 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "20 - 22 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=409",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "เปิดสอบ ก.พ.",
       "position": "เปิดสอบ ก.พ.",
       "amount": "",
@@ -480,14 +496,6 @@
       "amount": "2 อัตรา",
       "apply_date": "วันนี้ - 8 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=161",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สํานักงานวัฒนธรรมจังหวัดตาก",
-      "position": "สํานักงานวัฒนธรรมจังหวัดตาก เปิดรับสมัครจ้างเหมาบริการบุคคลภายนอก 3 อัตรา",
-      "amount": "3 อัตรา",
-      "apply_date": "วันนี้ - 12 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=560",
       "source": "ประกาศผลสอบ.com"
     }
   ]
