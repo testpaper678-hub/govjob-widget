@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-10-29T03:45:52.702709+00:00",
-  "count": 41,
+  "updated_at": "2026-10-30T03:48:36.559272+00:00",
+  "count": 40,
   "jobs": [
+    {
+      "agency": "กรมสรรพสามิต",
+      "position": "กรมสรรพสามิต   เปิดรับสมัครพนักงานราชการทั่วไป  22 อัตรา",
+      "amount": "22 อัตรา",
+      "apply_date": "6 - 12 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=635",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สํานักงานทรัพยากรน้ำแห่งชาติ",
+      "position": "สํานักงานทรัพยากรน้ำแห่งชาติ  เปิดรับสมัครพนักงานราชการทั่วไป  7 อัตรา",
+      "amount": "7 อัตรา",
+      "apply_date": "2 - 20 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=509",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "สำนักงานศาลยุติธรรม",
+      "position": "สำนักงานศาลยุติธรรม  เปิดรับสมัครสอบบรรจุเข้ารับราชการ  51 อัตรา",
+      "amount": "51 อัตรา",
+      "apply_date": "9 - 27 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=295",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "กรมปศุสัตว์",
       "position": "กรมปศุสัตว์  เปิดรับสมัครสอบบรรจุเข้ารับราชการ  40 อัตรา",
@@ -179,14 +203,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "โรงพยาบาลพุทธชินราช พิษณุโลก",
-      "position": "โรงพยาบาลพุทธชินราช พิษณุโลก  เปิดรับสมัครลูกจ้างชั่วคราวเงินบำรุง (รายวัน) 27 อัตรา",
-      "amount": "27 อัตรา",
-      "apply_date": "22 - 29 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=206",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "กรมพินิจและคุ้มครองเด็กและเยาวชน",
       "position": "กรมพินิจและคุ้มครองเด็กและเยาวชน เปิดรับสมัครคัดเลือกเพื่อบรรจุเข้ารับราชการ  7 อัตรา",
       "amount": "7 อัตรา",
@@ -200,14 +216,6 @@
       "amount": "7 อัตรา",
       "apply_date": "19 - 22 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=570",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานสรรพสามิตภาคที่ 10",
-      "position": "สำนักงานสรรพสามิตภาคที่ 10  เปิดรับสมัครลูกจ้างชั่วคราว 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "21 - 30 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=635",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -264,22 +272,6 @@
       "amount": "4 อัตรา",
       "apply_date": "12 ตุลาคม - 4 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=440",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมตรวจบัญชีสหกรณ์",
-      "position": "กรมตรวจบัญชีสหกรณ์  เปิดรับสมัครสอบบรรจุเข้ารับราชการ  20 อัตรา",
-      "amount": "20 อัตรา",
-      "apply_date": "7 - 29 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=450",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมที่ดิน",
-      "position": "กรมที่ดิน เปิดรับสมัครสอบบรรจุเข้ารับราชการ 26 อัตรา",
-      "amount": "26 อัตรา",
-      "apply_date": "2 - 29 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=344",
       "source": "ประกาศผลสอบ.com"
     },
     {
