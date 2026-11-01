@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-31T03:32:04.260368+00:00",
-  "count": 57,
+  "updated_at": "2026-11-01T03:38:37.278702+00:00",
+  "count": 56,
   "jobs": [
+    {
+      "agency": "การประปาส่วนภูมิภาค (กปภ.)",
+      "position": "การประปาส่วนภูมิภาค (กปภ.)   เปิดรับสมัครสอบบรรจุเป็นพนักงาน  4 อัตรา",
+      "amount": "4 อัตรา",
+      "apply_date": "1 - 10 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=150",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "กรมสรรพสามิต",
       "position": "กรมสรรพสามิต   เปิดรับสมัครพนักงานราชการทั่วไป  22 อัตรา",
@@ -235,27 +243,11 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "TED Fund สำนักงานปลัดกระทรวง อว.",
-      "position": "TED Fund สำนักงานปลัดกระทรวง อว. เปิดรับสมัครพนักงานทุนหมุนเวียน 5 อัตรา",
-      "amount": "5 อัตรา",
-      "apply_date": "วันนี้ - 31 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=175",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "การท่าเรือแห่งประเทศไทย",
       "position": "การท่าเรือแห่งประเทศไทย เปิดรับสมัครเป็นพนักงานการท่าเรือแห่งประเทศไทย 4 อัตรา",
       "amount": "4 อัตรา",
       "apply_date": "12 ตุลาคม - 4 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=440",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) ดูคะแนนสอบ ได้แล้ว!!!",
-      "position": "ประกาศผลสอบ ก.พ. ประจำปี 2569 (Paper & Pencil) ดูคะแนนสอบ ได้แล้ว!!!",
-      "amount": "",
-      "apply_date": "",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=453",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -296,6 +288,14 @@
       "amount": "",
       "apply_date": "",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=84",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ประกาศผลสอบ ก.พ.",
+      "position": "ประกาศผลสอบ ก.พ.",
+      "amount": "",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=453",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -448,14 +448,6 @@
       "amount": "102 อัตรา",
       "apply_date": "วันนี้ - 16 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=27",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "สำนักงานบังคับคดีจังหวัดอุบลราชธานี",
-      "position": "สำนักงานบังคับคดีจังหวัดอุบลราชธานี เปิดรับสมัครลูกจ้างชั่วคราว 2 อัตรา",
-      "amount": "2 อัตรา",
-      "apply_date": "15 - 22 ตุลาคม 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=7",
       "source": "ประกาศผลสอบ.com"
     }
   ]
