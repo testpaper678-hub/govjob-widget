@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-05T04:32:20.469404+00:00",
-  "count": 41,
+  "updated_at": "2026-11-06T04:30:47.738753+00:00",
+  "count": 42,
   "jobs": [
+    {
+      "agency": "กรมชลประทาน",
+      "position": "กรมชลประทาน   เปิดรับสมัครลูกจ้างชั่วคราว 2 อัตรา",
+      "amount": "2 อัตรา",
+      "apply_date": "9 - 16 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=63",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "สำนักงานสถานธนานุบาลกรุงเทพมหานคร",
       "position": "สำนักงานสถานธนานุบาลกรุงเทพมหานคร   เปิดรับสมัครพนักงานธนานุบาลกรุงเทพมหานคร  29 อัตรา",
       "amount": "29 อัตรา",
       "apply_date": "11 - 24 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=398",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร",
+      "position": "มหาวิทยาลัยเทคโนโลยีราชมงคลพระนคร  เปิดรับสมัครลูกจ้างชั่วคราว 4 อัตรา",
+      "amount": "4 อัตรา",
+      "apply_date": "9 - 16 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=311",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -264,14 +280,6 @@
       "amount": "7 อัตรา",
       "apply_date": "19 - 22 ตุลาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=570",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "องค์การบริหารส่วนจังหวัดเชียงใหม่",
-      "position": "องค์การบริหารส่วนจังหวัดเชียงใหม่ รับสมัครมีเหตุพิเศษที่ไม่จำเป็นต้องสอบแข่งขัน 147 อัตรา",
-      "amount": "147 อัตรา",
-      "apply_date": "29 ตุลาคม - 5 พฤศจิกายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=149",
       "source": "ประกาศผลสอบ.com"
     },
     {
