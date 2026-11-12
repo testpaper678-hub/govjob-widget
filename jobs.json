@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-11-11T03:59:32.905829+00:00",
-  "count": 47,
+  "updated_at": "2026-11-12T05:10:40.055607+00:00",
+  "count": 48,
   "jobs": [
+    {
+      "agency": "กรมวิชาการเกษตร",
+      "position": "กรมวิชาการเกษตร    เปิดรับสมัครสอบบรรจุเข้ารับราชการ 6 อัตรา",
+      "amount": "6 อัตรา",
+      "apply_date": "23 พฤศจิกายน - 15 ธันวาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=456",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "สำนักงานกองทุนฟื้นฟูและพัฒนาเกษตรกร",
       "position": "สำนักงานกองทุนฟื้นฟูและพัฒนาเกษตรกร   เปิดรับสมัครลูกจ้างสำนักงานกองทุน 16 อัตรา",
@@ -88,14 +96,6 @@
       "amount": "2 อัตรา",
       "apply_date": "วันนี้ - 27 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=202",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "ธ.ก.ส.",
-      "position": "ธ.ก.ส.  เปิดรับสมัครเป็นพนักงานการเงิน  462 อัตรา (ทั่วประเทศ)",
-      "amount": "462 อัตรา",
-      "apply_date": "4 - 11 พฤศจิกายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=390",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -320,6 +320,14 @@
       "amount": "",
       "apply_date": "บัดนี้ - 30 ธันวาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=422",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ธ.ก.ส.",
+      "position": "ธ.ก.ส.  เปิดรับสมัครเป็นพนักงานการเงิน  462 อัตรา (ทั่วประเทศ)",
+      "amount": "462 อัตรา",
+      "apply_date": "4 - 11 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=390",
       "source": "ประกาศผลสอบ.com"
     },
     {
