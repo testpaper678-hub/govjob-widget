@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-11-22T04:25:17.982168+00:00",
+  "updated_at": "2026-11-23T05:00:21.604320+00:00",
   "count": 57,
   "jobs": [
+    {
+      "agency": "กระทรวงการต่างประเทศ",
+      "position": "กระทรวงการต่างประเทศ    เปิดรับสมัครพนักงานราชการทั่วไป 7 อัตรา",
+      "amount": "7 อัตรา",
+      "apply_date": "69 - 4 มกราคม 2570",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=576",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กระทรวงการต่างประเทศ",
+      "position": "กระทรวงการต่างประเทศ    เปิดรับสมัครสอบบรรจุเข้ารับราชการ 12 อัตรา",
+      "amount": "12 อัตรา",
+      "apply_date": "69 - 4 มกราคม 2570",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=276",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "กรมการขนส่งทางบก",
       "position": "กรมการขนส่งทางบก    เปิดรับสมัครจ้างเหมาบริการ 10 อัตรา",
@@ -155,14 +171,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "กรมการกงสุล",
-      "position": "กรมการกงสุล เปิดรับสมัครพนักงานจ้างเหมาบริการ 1 อัตรา",
-      "amount": "1 อัตรา",
-      "apply_date": "3 - 22 พฤศจิกายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=24",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "กรมเจ้าท่า",
       "position": "กรมเจ้าท่า  เปิดรับสมัครสอบบรรจุเข้ารับราชการ",
       "amount": "",
@@ -235,14 +243,6 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
-      "agency": "กองทัพอากาศ",
-      "position": "กองทัพอากาศ  เปิดรับสมัครทหารอาสา 50 อัตรา",
-      "amount": "50 อัตรา",
-      "apply_date": "วันนี้ - 22 พฤศจิกายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=262",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
       "agency": "มหาวิทยาลัยราชภัฏสงขลา",
       "position": "มหาวิทยาลัยราชภัฏสงขลา เปิดรับสมัครพนักงานจ้างเหมาบริการ 7 อัตรา",
       "amount": "7 อัตรา",
@@ -256,6 +256,14 @@
       "amount": "",
       "apply_date": "บัดนี้ - 30 ธันวาคม 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=422",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "ประกาศผลสอบ ตำรวจ สายงานอำนวยการและสนับสนุน 900 อัตรา  ประจำปี 2569",
+      "position": "ประกาศผลสอบ ตำรวจ สายงานอำนวยการและสนับสนุน 900 อัตรา  ประจำปี 2569",
+      "amount": "900 อัตรา",
+      "apply_date": "",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=554",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -280,14 +288,6 @@
       "amount": "92 อัตรา",
       "apply_date": "9 - 16 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=283",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "ธ.ก.ส.",
-      "position": "ธ.ก.ส.  เปิดรับสมัครเป็นพนักงานการเงิน  462 อัตรา (ทั่วประเทศ)",
-      "amount": "462 อัตรา",
-      "apply_date": "4 - 11 พฤศจิกายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=390",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -363,11 +363,27 @@
       "source": "ประกาศผลสอบ.com"
     },
     {
+      "agency": "ธ.ก.ส.",
+      "position": "ธ.ก.ส.  เปิดรับสมัครเป็นพนักงานการเงิน  462 อัตรา (ทั่วประเทศ)",
+      "amount": "462 อัตรา",
+      "apply_date": "4 - 11 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=390",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
       "agency": "สำนักเลขาธิการนายกรัฐมนตรี",
       "position": "สำนักเลขาธิการนายกรัฐมนตรี  เปิดรับสมัครพนักงานจ้างเหมาบริการ 2 อัตรา",
       "amount": "2 อัตรา",
       "apply_date": "วันนี้ - 6 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=293",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมการกงสุล",
+      "position": "กรมการกงสุล เปิดรับสมัครพนักงานจ้างเหมาบริการ 1 อัตรา",
+      "amount": "1 อัตรา",
+      "apply_date": "3 - 22 พฤศจิกายน 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=24",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -440,22 +456,6 @@
       "amount": "6 อัตรา",
       "apply_date": "26 ตุลาคม - 6 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=383",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "องค์การบริหารส่วนจังหวัดสมุทรปราการ",
-      "position": "องค์การบริหารส่วนจังหวัดสมุทรปราการ  เปิดรับสมัครเป็นพนักงานจ้าง 96 อัตรา",
-      "amount": "96 อัตรา",
-      "apply_date": "5 - 13 พฤศจิกายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=87",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมธนารักษ์",
-      "position": "กรมธนารักษ์   เปิดรับสมัครสอบบรรจุเข้ารับราชการ 15 อัตรา",
-      "amount": "15 อัตรา",
-      "apply_date": "30 ตุลาคม - 19 พฤศจิกายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=637",
       "source": "ประกาศผลสอบ.com"
     }
   ]
