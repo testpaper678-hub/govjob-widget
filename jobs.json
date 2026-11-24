@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-11-23T05:00:21.604320+00:00",
+  "updated_at": "2026-11-24T07:49:53.103062+00:00",
   "count": 57,
   "jobs": [
+    {
+      "agency": "กรมศิลปากร",
+      "position": "กรมศิลปากร   เปิดรับสมัครสอบบรรจุเข้ารับราชการ 13 อัตรา",
+      "amount": "13 อัตรา",
+      "apply_date": "1 - 29 ธันวาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=57",
+      "source": "ประกาศผลสอบ.com"
+    },
     {
       "agency": "กระทรวงการต่างประเทศ",
       "position": "กระทรวงการต่างประเทศ    เปิดรับสมัครพนักงานราชการทั่วไป 7 อัตรา",
       "amount": "7 อัตรา",
       "apply_date": "69 - 4 มกราคม 2570",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=576",
+      "source": "ประกาศผลสอบ.com"
+    },
+    {
+      "agency": "กรมเจ้าท่า",
+      "position": "กรมเจ้าท่า   เปิดรับสมัครพนักงานราชการทั่วไป 32 อัตรา",
+      "amount": "32 อัตรา",
+      "apply_date": "30 พฤศจิกายน - 27 ธันวาคม 2569",
+      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=507",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -168,14 +184,6 @@
       "amount": "16 อัตรา",
       "apply_date": "วันนี้ - 25 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=451",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมเจ้าท่า",
-      "position": "กรมเจ้าท่า  เปิดรับสมัครสอบบรรจุเข้ารับราชการ",
-      "amount": "",
-      "apply_date": "9 - 23 พฤศจิกายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.comprd-detail.php?prd_id=507",
       "source": "ประกาศผลสอบ.com"
     },
     {
@@ -448,14 +456,6 @@
       "amount": "19 อัตรา",
       "apply_date": "28 ตุลาคม - 4 พฤศจิกายน 2569",
       "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=409",
-      "source": "ประกาศผลสอบ.com"
-    },
-    {
-      "agency": "กรมการทหารสื่อสาร",
-      "position": "กรมการทหารสื่อสาร  เปิดรับสมัครพนักงานราชการ 6 อัตรา",
-      "amount": "6 อัตรา",
-      "apply_date": "26 ตุลาคม - 6 พฤศจิกายน 2569",
-      "link": "https://www.xn--12c4cbf7aots1ayx.com/prd-detail.php?prd_id=383",
       "source": "ประกาศผลสอบ.com"
     }
   ]
